@@ -1,7 +1,7 @@
 # Discrete Event Simulation
-## Objective:
+## Objetivo:
 
-Apply the principles of discrete event simulation to model and experiment with certain phenomena, and obtain results that help us make informed decisions.
+Aplicar los principios de simulación de eventos discretos para modelar y experimentar con ciertos fenómenos, y obtener resultados que nos ayuden a tomar decisiones informadas.
 
 
 
