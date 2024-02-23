@@ -1,4 +1,7 @@
 import random
 
-def variable_aleatoria_uniforme():
-    return random.uniform(0, 1)
+def uniform(a, b):
+    return random.uniform(a, b)
+
+def exp(lambd):
+    return random.expovariate(lambd)
