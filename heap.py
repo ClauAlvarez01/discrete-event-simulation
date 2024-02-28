@@ -19,6 +19,15 @@ class Heap:
         self.heap[0] = self.heap.pop()
         self._heapify_down()
         return root
+    
+    def first(self):
+        if len(self.heap) == 0:
+            return None
+        
+        return self.heap[0]
+        
+
+
 
     def _heapify_up(self):
         index = len(self.heap) - 1
